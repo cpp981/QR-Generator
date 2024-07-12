@@ -6,7 +6,7 @@
 
         
 
-   ![gif](https://github.com/cpp981/QR-Generator/blob/main/Sin%20t%C3%ADtulo.gif)  
+   ![gif](https://github.com/cpp981/QR-Generator/blob/main/test.gif)  
 
 
   ## Build with 🛠️  
