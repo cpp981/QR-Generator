@@ -1,0 +1,23 @@
+{
+    "name": "qr/qr",
+    "description": "QR Code Generator",
+    "type": "project",
+    "config": {
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "User\\": ""
+    }
+  },
+    "require": {
+        "milon/barcode": "^11.0"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "carlos",
+            "email": "carlos@cppDWES.es"
+        }
+    ]
+}
