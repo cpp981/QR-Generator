@@ -1,7 +1,6 @@
 # QR Generator  
 
-  ### A simple QR generator using the Milon/Barcode PHP library    
-
+  ### A simple app to generate a QR code using the Milon/Barcode PHP library  
 
 
         
