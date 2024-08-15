@@ -4,7 +4,7 @@ require "../vendor/autoload.php";
 use \Milon\Barcode\DNS2D;
 
 if(!isset($_POST['url'])){
-    header('Location: ../public/index.php');
+    header('Location: ../public/index.html');
 }
 
 if(isset($_POST['url'])){
